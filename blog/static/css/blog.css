@@ -1,6 +1,6 @@
 h1 a {
     color: #C3DDE6;
-    font-family: 'Philosopher';
+    font-family: 'Lobster';
 }
 body {
     padding-left: 15px;
@@ -22,7 +22,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Philosopher', cursive;
+    font-family: 'Lobster', cursive;
 }
 
 .date {
